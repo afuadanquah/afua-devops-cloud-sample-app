@@ -2,6 +2,8 @@
 logs
 *.log
 npm-debug.log*
+docker-compose.debug.yml
+docker-compose.yml
 
 # nyc test coverage
 .nyc_output
@@ -22,3 +24,4 @@ package-lock.json
 
 # OS files
 .DS_Store
+.vscode/
